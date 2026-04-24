@@ -1,0 +1,1426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260424195047YZCDBS</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202604241950473CVAI1</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>La Bliblioteca de Noreña</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Antonio Alonso Valdés</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de Aprendizaje para crear una base de datos para la biblioteca del centro.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777052888067</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mod7enzr-8kd03rs2o</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Título. Descripción de la Sda</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Título. Descripción de la Sda</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Título. Descripción de la Sda</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mod7enzr-8kd03rs2o</odePageId>
+      <odeBlockId>block-1776769821162-jt5a6wm6g</odeBlockId>
+      <blockName>Etapa y nivel educativo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod7enzr-8kd03rs2o</odePageId>
+          <odeBlockId>block-1776769821162-jt5a6wm6g</odeBlockId>
+          <odeIdeviceId>idevice-1776769821158-qw6b92e3h</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Formación Profesional<br />Ciclo Formativo de Grado Superior<br />Familia Profesional: Administración y Gestión<br />Módulo: Ofimática y Procesos de la Información</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776769821158-qw6b92e3h","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Formación Profesional<br />Ciclo Formativo de Grado Superior<br />Familia Profesional: Administración y Gestión<br />Módulo: Ofimática y Procesos de la Información</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mod7enzr-8kd03rs2o</odePageId>
+      <odeBlockId>block-1776769949722-sjzsuqvfo</odeBlockId>
+      <blockName>Relación interdisciplinar entre módulos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod7enzr-8kd03rs2o</odePageId>
+          <odeBlockId>block-1776769949722-sjzsuqvfo</odeBlockId>
+          <odeIdeviceId>idevice-1776769949715-5a58npdhg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>•    Comunicación y Atención al Cliente,<br />•    Gestión de la Documentación Jurídica y Empresarial <br />•    Proceso Integral de la Actividad Comercial<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776769949715-5a58npdhg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>•    Comunicación y Atención al Cliente,<br />•    Gestión de la Documentación Jurídica y Empresarial <br />•    Proceso Integral de la Actividad Comercial<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mod7enzr-8kd03rs2o</odePageId>
+      <odeBlockId>block-1776770249450-3ficjrg58</odeBlockId>
+      <blockName>Agrupamientos y organización espacial</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod7enzr-8kd03rs2o</odePageId>
+          <odeBlockId>block-1776770249450-3ficjrg58</odeBlockId>
+          <odeIdeviceId>idevice-1776770249445-zp7nwx1qm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>☑️ Grupos heterogéneos--> Creación de una BD para la biblioteca del centro.</p>
+<p>☑️ Gran grupo o grupo-clase--> Puesta en común, revisión y trabajo en el aula.</p>
+<p>☑️ Trabajo individual--> Resolución de tareas individuales para comprender el funcionamiento de las BD.</p>
+<p>☑️ Grupos interactivos--> Revisión cruzada de las propuestas de otros grupos y corrección de errores.<br /></p>
+<p></p>
+<p>Espacios disponibles:</p>
+<p>📚 Biblioteca del centro</p>
+<p>💻 Aula TIC</p>
+<p>📖 Aula ordinaria</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776770249445-zp7nwx1qm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>☑️ Grupos heterogéneos--> Creación de una BD para la biblioteca del centro.</p>\n<p>☑️ Gran grupo o grupo-clase--> Puesta en común, revisión y trabajo en el aula.</p>\n<p>☑️ Trabajo individual--> Resolución de tareas individuales para comprender el funcionamiento de las BD.</p>\n<p>☑️ Grupos interactivos--> Revisión cruzada de las propuestas de otros grupos y corrección de errores.<br /></p>\n<p></p>\n<p>Espacios disponibles:</p>\n<p>📚 Biblioteca del centro</p>\n<p>💻 Aula TIC</p>\n<p>📖 Aula ordinaria</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mod7enzr-8kd03rs2o</odePageId>
+      <odeBlockId>block-1776770815816-r0822ju9o</odeBlockId>
+      <blockName>Temporalización</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod7enzr-8kd03rs2o</odePageId>
+          <odeBlockId>block-1776770815816-r0822ju9o</odeBlockId>
+          <odeIdeviceId>idevice-1776770815811-sgvlzfmqr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>1: Introducción a las bases de datos y Access</p>
+<p>2: Diseño y relaciones entre tablas</p>
+<p>3: Consultas y formularios</p>
+<p>4: Informes y seguridad</p>
+<p>5: Producto final y presentación</p>
+<p></p>
+<p>Cada jornada de trabajo son dos sesiones de 55 minutos cada una. Total 10 sesiones distribuidas en 5 días.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776770815811-sgvlzfmqr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>1: Introducción a las bases de datos y Access</p>\n<p>2: Diseño y relaciones entre tablas</p>\n<p>3: Consultas y formularios</p>\n<p>4: Informes y seguridad</p>\n<p>5: Producto final y presentación</p>\n<p></p>\n<p>Cada jornada de trabajo son dos sesiones de 55 minutos cada una. Total 10 sesiones distribuidas en 5 días.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mod7enzr-8kd03rs2o</odePageId>
+      <odeBlockId>block-1776859327566-3d5t5azgm</odeBlockId>
+      <blockName>Productos del alumnado</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod7enzr-8kd03rs2o</odePageId>
+          <odeBlockId>block-1776859327566-3d5t5azgm</odeBlockId>
+          <odeIdeviceId>idevice-1776859327563-x3zfrzwdz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Producto 1. Infografía sobre cómo introducir nuevos títulos en la base de datos.</p>
+<p>Producto 2. Creación de un vídeo sobre cómo usar la base de datos de la biblioteca del centro que han creado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776859327563-x3zfrzwdz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Producto 1. Infografía sobre cómo introducir nuevos títulos en la base de datos.</p>\n<p>Producto 2. Creación de un vídeo sobre cómo usar la base de datos de la biblioteca del centro que han creado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mod7enzr-8kd03rs2o</odePageId>
+      <odeBlockId>block-1776860094308-9cibhcg3i</odeBlockId>
+      <blockName>Herramientas tecnológicas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod7enzr-8kd03rs2o</odePageId>
+          <odeBlockId>block-1776860094308-9cibhcg3i</odeBlockId>
+          <odeIdeviceId>idevice-1776860094304-k5nkk2m11</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="text-decoration: underline;"><strong>Para docentes</strong></span></p>
+<ul>
+<li>eXeLearning</li>
+<li>Grupo de Teams</li>
+<li>Rúbricas digitales (CoRubrics)</li>
+<li>Genially / Canva para ejemplos</li>
+</ul>
+<p><br /><span style="text-decoration: underline;"><strong>Para alumnado</strong></span></p>
+<ul>
+<li>Canva, Genially, Piktochart (infografía)</li>
+<li>CapCut, Clipchamp, OpenShot (vídeo)<br /><br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776860094304-k5nkk2m11","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"text-decoration: underline;\"><strong>Para docentes</strong></span></p>\n<ul>\n<li>eXeLearning</li>\n<li>Grupo de Teams</li>\n<li>Rúbricas digitales (CoRubrics)</li>\n<li>Genially / Canva para ejemplos</li>\n</ul>\n<p><br /><span style=\"text-decoration: underline;\"><strong>Para alumnado</strong></span></p>\n<ul>\n<li>Canva, Genially, Piktochart (infografía)</li>\n<li>CapCut, Clipchamp, OpenShot (vídeo)<br /><br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mod7enzu-cjbo64fru</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mod7enzu-cjbo64fru</odePageId>
+      <odeBlockId>block-mo8ihqxo-93nlppdld</odeBlockId>
+      <blockName>Justificación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod7enzu-cjbo64fru</odePageId>
+          <odeBlockId>block-mo8ihqxo-93nlppdld</odeBlockId>
+          <odeIdeviceId>idevice-mo8ihqxo-lmd0ka6et</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta SdA permite que el alumnado cree una base de datos funcional para la biblioteca del centro como proyecto de Aprendizaje-Servicio, mejorando un servicio real del entorno cercano. Se fortalece la competencia digital y la empleabilidad mediante el uso profesional de Microsoft Access para organizar información, automatizar procesos de préstamo y generar informes propios del ámbito administrativo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mo8ihqxo-lmd0ka6et","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta SdA permite que el alumnado cree una base de datos funcional para la biblioteca del centro como proyecto de Aprendizaje-Servicio, mejorando un servicio real del entorno cercano. Se fortalece la competencia digital y la empleabilidad mediante el uso profesional de Microsoft Access para organizar información, automatizar procesos de préstamo y generar informes propios del ámbito administrativo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mod7enzu-cjbo64fru</odePageId>
+      <odeBlockId>block-1776880867897-2qtbz9s9c</odeBlockId>
+      <blockName>Relación con los ODS y los retos del siglo XXI</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod7enzu-cjbo64fru</odePageId>
+          <odeBlockId>block-1776880867897-2qtbz9s9c</odeBlockId>
+          <odeIdeviceId>idevice-1776880867893-hdkb2se3d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>ODS</p>
+<p>ODS 4 – Educación de calidad    </p>
+<p>ODS 8 – Trabajo decente y crecimiento económico    </p>
+<p>ODS 9 – Industria, innovación e infraestructura</p>
+<p></p>
+<p>Retos del Siglo XXI</p>
+<p>Transformación digital y competencia digital --> Uso de herramientas profesionales (Microsoft Access) para resolver una necesidad real del centro.</p>
+<p>Pensamiento crítico y resolución de problemas --> Convertir una necesidad real en un modelo de datos funcional.</p>
+<p>Aprendizaje-Servicio --> El producto tiene utilidad real para el centro: mejora la gestión de la biblioteca y el servicio a la comunidad educativa.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776880867893-hdkb2se3d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>ODS</p>\n<p>ODS 4 – Educación de calidad    </p>\n<p>ODS 8 – Trabajo decente y crecimiento económico    </p>\n<p>ODS 9 – Industria, innovación e infraestructura</p>\n<p></p>\n<p>Retos del Siglo XXI</p>\n<p>Transformación digital y competencia digital --> Uso de herramientas profesionales (Microsoft Access) para resolver una necesidad real del centro.</p>\n<p>Pensamiento crítico y resolución de problemas --> Convertir una necesidad real en un modelo de datos funcional.</p>\n<p>Aprendizaje-Servicio --> El producto tiene utilidad real para el centro: mejora la gestión de la biblioteca y el servicio a la comunidad educativa.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mod7enzu-cjbo64fru</odePageId>
+      <odeBlockId>block-1776881190542-ethdyv5nc</odeBlockId>
+      <blockName>Impacto esperado</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod7enzu-cjbo64fru</odePageId>
+          <odeBlockId>block-1776881190542-ethdyv5nc</odeBlockId>
+          <odeIdeviceId>idevice-1776881190531-n3btqd1e6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Mejora del servicio de biblioteca del centro mediante una gestión más eficiente de préstamos, devoluciones y catálogo.</li>
+<li>Mayor dominio de herramientas digitales profesionales aplicadas a un caso real.</li>
+<li>Desarrollo de la competencia digital y de la alfabetización de datos </li>
+<li>Incremento de la empleabilidad por adquisición de habilidades transferibles al ámbito empresarial.</li>
+<li>Aumento de la motivación y del aprendizaje significativo al generar un producto útil con enfoque de Aprendizaje‑Servicio.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776881190531-n3btqd1e6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Mejora del servicio de biblioteca del centro mediante una gestión más eficiente de préstamos, devoluciones y catálogo.</li>\n<li>Mayor dominio de herramientas digitales profesionales aplicadas a un caso real.</li>\n<li>Desarrollo de la competencia digital y de la alfabetización de datos </li>\n<li>Incremento de la empleabilidad por adquisición de habilidades transferibles al ámbito empresarial.</li>\n<li>Aumento de la motivación y del aprendizaje significativo al generar un producto útil con enfoque de Aprendizaje‑Servicio.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mod7enzv-4t4gnle93</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mod7enzv-4t4gnle93</odePageId>
+      <odeBlockId>block-1777018157846-756hro2lv</odeBlockId>
+      <blockName>Competencias clave (descriptores operativos / perfil de salida)</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod7enzv-4t4gnle93</odePageId>
+          <odeBlockId>block-1777018157846-756hro2lv</odeBlockId>
+          <odeIdeviceId>idevice-1777018157841-738pxs5mn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>CD – Competencia digital: uso seguro, crítico y eficaz de herramientas digitales para el tratamiento, organización y gestión de la información mediante bases de datos.</li>
+<li>CMCT – Competencia matemática y en ciencia, tecnología e ingeniería: aplicación del razonamiento lógico y estructurado en el diseño de tablas, relaciones y consultas de una base de datos.</li>
+<li>CPSAA – Competencia personal, social y de aprender a aprender: desarrollo de autonomía, responsabilidad y perseverancia en la resolución de tareas digitales complejas y en la mejora continua del proyecto.</li>
+<li>CCL – Competencia en comunicación lingüística: comunicación clara y precisa de la información mediante informes, presentaciones y explicaciones orales del funcionamiento de la base de datos.</li>
+<li>CE – Competencia emprendedora: iniciativa y creatividad en la elaboración de una solución digital aplicada a una necesidad real del entorno educativo, es nuestra SdA, lagestión de la biblioteca del centro.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777018157841-738pxs5mn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>CD – Competencia digital: uso seguro, crítico y eficaz de herramientas digitales para el tratamiento, organización y gestión de la información mediante bases de datos.</li>\n<li>CMCT – Competencia matemática y en ciencia, tecnología e ingeniería: aplicación del razonamiento lógico y estructurado en el diseño de tablas, relaciones y consultas de una base de datos.</li>\n<li>CPSAA – Competencia personal, social y de aprender a aprender: desarrollo de autonomía, responsabilidad y perseverancia en la resolución de tareas digitales complejas y en la mejora continua del proyecto.</li>\n<li>CCL – Competencia en comunicación lingüística: comunicación clara y precisa de la información mediante informes, presentaciones y explicaciones orales del funcionamiento de la base de datos.</li>\n<li>CE – Competencia emprendedora: iniciativa y creatividad en la elaboración de una solución digital aplicada a una necesidad real del entorno educativo, es nuestra SdA, lagestión de la biblioteca del centro.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mod7enzv-4t4gnle93</odePageId>
+      <odeBlockId>block-1777018462656-cvs4lvl8c</odeBlockId>
+      <blockName>Competencias específicas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod7enzv-4t4gnle93</odePageId>
+          <odeBlockId>block-1777018462656-cvs4lvl8c</odeBlockId>
+          <odeIdeviceId>idevice-1777018462654-mfcyl61hj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Diseño de bases de datos adaptadas a un contexto real de gestión administrativa</li>
+<li>Organización y estructuración de información mediante tablas y relaciones</li>
+<li>Uso de Microsoft Access para la gestión de datos, consultas, formularios e informes</li>
+<li>Resolución de problemas derivados del tratamiento y mantenimiento de la información</li>
+<li>Presentación y comunicación de la información de forma clara y funcional</li>
+</ul>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777018462654-mfcyl61hj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Diseño de bases de datos adaptadas a un contexto real de gestión administrativa</li>\n<li>Organización y estructuración de información mediante tablas y relaciones</li>\n<li>Uso de Microsoft Access para la gestión de datos, consultas, formularios e informes</li>\n<li>Resolución de problemas derivados del tratamiento y mantenimiento de la información</li>\n<li>Presentación y comunicación de la información de forma clara y funcional</li>\n</ul>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mod7enzv-4t4gnle93</odePageId>
+      <odeBlockId>block-1777018714462-juwl5i1op</odeBlockId>
+      <blockName>Saberes básicos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod7enzv-4t4gnle93</odePageId>
+          <odeBlockId>block-1777018714462-juwl5i1op</odeBlockId>
+          <odeIdeviceId>idevice-1777018714457-vysoe78a2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Competencias <strong>personales, profesionales</strong> y para le <strong>empleabilidad</strong> según el RD de título:</p>
+<p>a) Tramitar documentos o comunicaciones internas o externas en los circuitos de información de la empresa. </p>
+<p>e) Clasificar, registrar y archivar comunicaciones y documentos según las técnicas apropiadas y los parámetros establecidos en la empresa. </p>
+<p>f) Gestionar los procesos de tramitación administrativa empresarial en relación a las distintas áreas de la empresa, con una visión integradora de las mismas. </p>
+<p>n) Adaptarse a las nuevas situaciones laborales, manteniendo actualizados los conocimientos y utilizando las tecnologías de la información y la comunicación. </p>
+<p>ñ) Resolver situaciones, problemas o contingencias con iniciativa y autonomía en el ámbito de su competencia, con espíritu de mejora.</p>
+<p></p>
+<p>Los <strong>saberes básicos</strong> se concretan a partir de los contenidos del módulo, integrando conocimientos, destrezas y habilidades necesarios para el desarrollo de la situación de aprendizaje.</p>
+<ul>
+<li>Concepto y funciones de las bases de datos</li>
+<li>Diseño lógico de bases de datos: tablas, campos y claves</li>
+<li>Relaciones entre tablas y normalización básica</li>
+<li>Consultas con criterios para la obtención de información</li>
+<li>Formularios para la introducción y modificación de datos</li>
+<li>Informes para la presentación de información administrativa</li>
+</ul>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777018714457-vysoe78a2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Competencias <strong>personales, profesionales</strong> y para le <strong>empleabilidad</strong> según el RD de título:</p>\n<p>a) Tramitar documentos o comunicaciones internas o externas en los circuitos de información de la empresa. </p>\n<p>e) Clasificar, registrar y archivar comunicaciones y documentos según las técnicas apropiadas y los parámetros establecidos en la empresa. </p>\n<p>f) Gestionar los procesos de tramitación administrativa empresarial en relación a las distintas áreas de la empresa, con una visión integradora de las mismas. </p>\n<p>n) Adaptarse a las nuevas situaciones laborales, manteniendo actualizados los conocimientos y utilizando las tecnologías de la información y la comunicación. </p>\n<p>ñ) Resolver situaciones, problemas o contingencias con iniciativa y autonomía en el ámbito de su competencia, con espíritu de mejora.</p>\n<p></p>\n<p>Los <strong>saberes básicos</strong> se concretan a partir de los contenidos del módulo, integrando conocimientos, destrezas y habilidades necesarios para el desarrollo de la situación de aprendizaje.</p>\n<ul>\n<li>Concepto y funciones de las bases de datos</li>\n<li>Diseño lógico de bases de datos: tablas, campos y claves</li>\n<li>Relaciones entre tablas y normalización básica</li>\n<li>Consultas con criterios para la obtención de información</li>\n<li>Formularios para la introducción y modificación de datos</li>\n<li>Informes para la presentación de información administrativa</li>\n</ul>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mod7enzv-4t4gnle93</odePageId>
+      <odeBlockId>block-1777021359572-v32tdnqac</odeBlockId>
+      <blockName>Criterios de Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod7enzv-4t4gnle93</odePageId>
+          <odeBlockId>block-1777021359572-v32tdnqac</odeBlockId>
+          <odeIdeviceId>idevice-1777021359568-txtcn4i1q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Criterios de Evaluación recogidos en el RD de título:</p>
+<p>a) Se han ordenado y clasificado los datos de las bases de datos para presentar la información.</p>
+<p>b) Se han realizado consultas de bases de datos con criterios precisos.</p>
+<p>c) Se han realizado informes de bases de datos con criterios precisos.</p>
+<p>d) Se han realizado formularios con criterios precisos.</p>
+<p>e) Se han actualizado, fusionado y eliminado registros de las bases de datos.</p>
+<p>f) Se han relacionado las bases de datos con otras aplicaciones informáticas para desarrollar las actividades que así lo requieran.</p>
+<p>g) Se han protegido las bases de datos estableciendo niveles de seguridad.</p>
+<p>h) Se ha elaborado una base de datos adaptada a los requerimientos de la organización.</p>
+<p></p>
+<p>Criterios de Evaluación contextualizados:</p>
+<ul>
+<li>Diseñar una base de datos relacional adecuada a la gestión de la biblioteca del centro.</li>
+<li>Crear y estructurar tablas y relaciones aplicando criterios correctos de organización de la información.</li>
+<li>Utilizar Microsoft Access para realizar consultas, formularios e informes funcionales.</li>
+<li>Gestionar y actualizar los datos de forma correcta, garantizando la coherencia y calidad de la información.</li>
+<li>Presentar y explicar la base de datos elaborada utilizando soportes digitales y un lenguaje claro y profesional.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777021359568-txtcn4i1q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Criterios de Evaluación recogidos en el RD de título:</p>\n<p>a) Se han ordenado y clasificado los datos de las bases de datos para presentar la información.</p>\n<p>b) Se han realizado consultas de bases de datos con criterios precisos.</p>\n<p>c) Se han realizado informes de bases de datos con criterios precisos.</p>\n<p>d) Se han realizado formularios con criterios precisos.</p>\n<p>e) Se han actualizado, fusionado y eliminado registros de las bases de datos.</p>\n<p>f) Se han relacionado las bases de datos con otras aplicaciones informáticas para desarrollar las actividades que así lo requieran.</p>\n<p>g) Se han protegido las bases de datos estableciendo niveles de seguridad.</p>\n<p>h) Se ha elaborado una base de datos adaptada a los requerimientos de la organización.</p>\n<p></p>\n<p>Criterios de Evaluación contextualizados:</p>\n<ul>\n<li>Diseñar una base de datos relacional adecuada a la gestión de la biblioteca del centro.</li>\n<li>Crear y estructurar tablas y relaciones aplicando criterios correctos de organización de la información.</li>\n<li>Utilizar Microsoft Access para realizar consultas, formularios e informes funcionales.</li>\n<li>Gestionar y actualizar los datos de forma correcta, garantizando la coherencia y calidad de la información.</li>\n<li>Presentar y explicar la base de datos elaborada utilizando soportes digitales y un lenguaje claro y profesional.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mod7enzv-i93u2f9il</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mod7enzv-i93u2f9il</odePageId>
+      <odeBlockId>block-1777021579266-z08unel65</odeBlockId>
+      <blockName>Metodologías aplicadas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod7enzv-i93u2f9il</odePageId>
+          <odeBlockId>block-1777021579266-z08unel65</odeBlockId>
+          <odeIdeviceId>idevice-1777021579265-yswfl5lfm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Aprendizaje Basado en Proyectos (ABP)</strong>: el alumnado desarrolla un proyecto <span style="text-decoration: underline;">completo</span> y <span style="text-decoration: underline;">significativo</span> que consiste en el diseño y creación de una base de datos en Microsoft Access para la gestión de la biblioteca del centro, integrando análisis, diseño, desarrollo y presentación de un producto digital funcional.</p>
+<p><br /><strong>Aprendizaje‑Servicio (ApS)</strong>: la situación de aprendizaje se orienta a <span style="text-decoration: underline;">dar respuesta a una necesidad real</span> del entorno educativo, mejorando la organización y gestión de la biblioteca del centro y aportando un servicio útil a la comunidad educativa.</p>
+<p><br /><strong>Aprendizaje Basado en Retos</strong>: el proyecto se plantea como un reto concreto que exige <span style="text-decoration: underline;">diseñar una solución digital eficaz</span> para organizar fondos bibliográficos, gestionar préstamos y generar información mediante consultas e informes.</p>
+<p><br /><strong>Design Thinking</strong>: se aplica un enfoque de pensamiento de diseño en las fases de comprensión de la necesidad, ideación de la estructura de la base de datos, prototipado en Access y comunicación visual del resultado a través de una <span style="text-decoration: underline;">infografía digital</span>.</p>
+<p><br />Además debemos de tener en cuenta el enfoque DUA (Diseño Universal para el Aprendizaje) por el que se garantiza la <span style="text-decoration: underline;">accesibilidad a los contenidos y recursos</span>, se ofrecen distintas opciones de expresión (base de datos, infografía, presentación) y se promueven múltiples formas de participación y agrupamiento del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777021579265-yswfl5lfm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Aprendizaje Basado en Proyectos (ABP)</strong>: el alumnado desarrolla un proyecto <span style=\"text-decoration: underline;\">completo</span> y <span style=\"text-decoration: underline;\">significativo</span> que consiste en el diseño y creación de una base de datos en Microsoft Access para la gestión de la biblioteca del centro, integrando análisis, diseño, desarrollo y presentación de un producto digital funcional.</p>\n<p><br /><strong>Aprendizaje‑Servicio (ApS)</strong>: la situación de aprendizaje se orienta a <span style=\"text-decoration: underline;\">dar respuesta a una necesidad real</span> del entorno educativo, mejorando la organización y gestión de la biblioteca del centro y aportando un servicio útil a la comunidad educativa.</p>\n<p><br /><strong>Aprendizaje Basado en Retos</strong>: el proyecto se plantea como un reto concreto que exige <span style=\"text-decoration: underline;\">diseñar una solución digital eficaz</span> para organizar fondos bibliográficos, gestionar préstamos y generar información mediante consultas e informes.</p>\n<p><br /><strong>Design Thinking</strong>: se aplica un enfoque de pensamiento de diseño en las fases de comprensión de la necesidad, ideación de la estructura de la base de datos, prototipado en Access y comunicación visual del resultado a través de una <span style=\"text-decoration: underline;\">infografía digital</span>.</p>\n<p><br />Además debemos de tener en cuenta el enfoque DUA (Diseño Universal para el Aprendizaje) por el que se garantiza la <span style=\"text-decoration: underline;\">accesibilidad a los contenidos y recursos</span>, se ofrecen distintas opciones de expresión (base de datos, infografía, presentación) y se promueven múltiples formas de participación y agrupamiento del alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mod7enzv-pai91qtxm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mod7enzv-pai91qtxm</odePageId>
+      <odeBlockId>block-1777049844800-6rqzchqpq</odeBlockId>
+      <blockName>Vinculación con los proyectos del centro</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod7enzv-pai91qtxm</odePageId>
+          <odeBlockId>block-1777049844800-6rqzchqpq</odeBlockId>
+          <odeIdeviceId>idevice-1777049844795-s7t05mg45</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><strong>PDC (Plan de Digitalización del Centro)</strong>, desarrollando la competencia digital del alumnado a través del uso de herramientas profesionales como Microsoft Access.</li>
+<li><strong>PAD (Plan de Atención a la Diversidad)</strong>, aplicando los principios del Diseño Universal para el Aprendizaje (DUA) mediante diferentes agrupamientos, ritmos de trabajo y productos finales.</li>
+<li><strong>Plan de orientación académica y profesional</strong>, preparando al alumnado para el uso de herramientas habituales en el entorno empresarial y administrativo.<br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777049844795-s7t05mg45","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>PDC (Plan de Digitalización del Centro)</strong>, desarrollando la competencia digital del alumnado a través del uso de herramientas profesionales como Microsoft Access.</li>\n<li><strong>PAD (Plan de Atención a la Diversidad)</strong>, aplicando los principios del Diseño Universal para el Aprendizaje (DUA) mediante diferentes agrupamientos, ritmos de trabajo y productos finales.</li>\n<li><strong>Plan de orientación académica y profesional</strong>, preparando al alumnado para el uso de herramientas habituales en el entorno empresarial y administrativo.<br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mod7enzv-6qar70ryg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mod7enzv-6qar70ryg</odePageId>
+      <odeBlockId>block-1777050072942-goz04wog7</odeBlockId>
+      <blockName>Actividades complementarias y extraescolares</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod7enzv-6qar70ryg</odePageId>
+          <odeBlockId>block-1777050072942-goz04wog7</odeBlockId>
+          <odeIdeviceId>idevice-1777050072929-azvjlybae</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Visita a la biblioteca de Noreña para ver su base de datos.</li>
+<li>En el Día del Libro (23 de abril), dar de alta los libros donados por los alumnos.</li>
+<li>Visita a empresas de la zona para ver cómo gestionan su base de datos.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777050072929-azvjlybae","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Visita a la biblioteca de Noreña para ver su base de datos.</li>\n<li>En el Día del Libro (23 de abril), dar de alta los libros donados por los alumnos.</li>\n<li>Visita a empresas de la zona para ver cómo gestionan su base de datos.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mod7enzv-q4ldxzx2l</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Atribución y fichero descargable.</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y fichero descargable.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y fichero descargable.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mod7enzv-q4ldxzx2l</odePageId>
+      <odeBlockId>block-1777019001798-yybk85r7t</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mod7enzv-q4ldxzx2l</odePageId>
+          <odeBlockId>block-1777019001798-yybk85r7t</odeBlockId>
+          <odeIdeviceId>idevice-1777019001794-nmrguswzg</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Legacy Project</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">-</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
